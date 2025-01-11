@@ -50,6 +50,9 @@ exclude:
   - _drafts
 
 collections:
+  posts:
+    output: true
+    permalink: /
   pages:
     output: true
     permalink: /
